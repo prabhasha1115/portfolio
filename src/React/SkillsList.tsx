@@ -44,7 +44,7 @@ const SkillsList = () => {
     ],
     "Mobile Development": [
       "Mobile-friendly web apps",
-      "React Native mobile apps",
+      "Flutter mobile apps",
     ],
     "UI/UX Design & Prototyping": [
       "UI design with Figma & Canva",
@@ -60,7 +60,7 @@ const SkillsList = () => {
   return (
     <div className="text-left pt-3 md:pt-9">
       <h3 className="text-[var(--white)] text-3xl md:text-4xl font-semibold md:mb-6">
-        What I do?
+        What we do?
       </h3>
       <ul className="space-y-4 mt-4 text-lg">
         {Object.entries(skills).map(([category, items]) => (
