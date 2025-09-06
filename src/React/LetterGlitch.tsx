@@ -12,7 +12,7 @@ const LogoBackground = ({
       <img
         src={logoSrc}
         alt={altText}
-        className="h-64 w-64 z-10" // Adjust height (64 = 16rem ≈ size of your left section)
+        className="h-64 w-64 z-50" // Adjust height (64 = 16rem ≈ size of your left section)
       />
     </div>
   );
