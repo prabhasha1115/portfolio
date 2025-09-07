@@ -21,7 +21,7 @@ dependencies:
     specifier: ^19.1.5
     version: 19.1.9(@types/react@19.1.12)
   astro:
-    specifier: ^5.13.4
+    specifier: ^5.13.5
     version: 5.13.5(@types/node@24.3.1)(typescript@5.9.2)
   firebase:
     specifier: ^12.2.1
