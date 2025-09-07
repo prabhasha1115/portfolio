@@ -1,5 +1,5 @@
 # Portfolio
-![Octocodz-portfolio](https://github.com/prabhasha1115/portfolio.git)
+![Octocodz-portfolio](https://portfolio-btycbyc9f-prabhasha-rodrigos-projects.vercel.app/)
 
 ---
 
